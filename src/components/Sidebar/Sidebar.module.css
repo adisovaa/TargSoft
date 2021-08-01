@@ -1,0 +1,34 @@
+aside {
+    grid-area: a;
+    border-right: 2px solid darkseagreen;
+    padding-top: 20px;
+}
+
+.sidebarItem {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.sidebarItem a {
+    text-decoration: none;
+    color: gray;
+    font-weight: 200;
+    font-size: 17px;
+}
+
+span {
+    font-weight: 300;
+}
+
+.sidebarItem a:hover{
+    color: darkseagreen
+}
+
+.textTitle {
+    margin-left: 10px;
+}
+
+.sidebar {
+
+}
